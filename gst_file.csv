@@ -1,0 +1,11 @@
+Sector ID,Business Sector,Primary GST Rate (%),SAC/HSN Code Range,Registration Threshold,Primary Return Form
+SEC001,Information Technology (IT) & SaaS,18,9983 / 9987,₹20 Lakh,"GSTR-1, GSTR-3B"
+SEC002,E-commerce Retailers,18,4202 / 6109,Mandatory (No limit),"GSTR-1, GSTR-3B, GSTR-8"
+SEC003,Manufacturing (General),18,7201 - 7326,₹40 Lakh,"GSTR-1, GSTR-3B"
+SEC004,Food Processing & Agriculture Products,5,0201 - 2106,₹40 Lakh,"GSTR-1, GSTR-3B"
+SEC005,Real Estate & Construction,12,9954,₹20 Lakh,"GSTR-1, GSTR-3B"
+SEC006,Healthcare & Pharmaceuticals,12,3001 - 3006,₹40 Lakh,"GSTR-1, GSTR-3B"
+SEC007,Hospitality & Restaurants,5,9963,₹20 Lakh,"GSTR-1, GSTR-3B"
+SEC008,Logistics & Supply Chain,18,9965 / 9967,₹40 Lakh,"GSTR-1, GSTR-3B"
+SEC009,Financial Services & Banking,18,9971,₹20 Lakh,"GSTR-1, GSTR-3B"
+SEC010,Renewable Energy & Solar,5,8406 / 8541,₹40 Lakh,"GSTR-1, GSTR-3B"

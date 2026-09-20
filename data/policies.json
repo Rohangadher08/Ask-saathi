@@ -1,0 +1,77 @@
+[
+  {
+    "title": "MSME Classification",
+    "category": "MSME Policy",
+    "topic": "Micro, Small and Medium Enterprises",
+    "description": "MSME classification is based on criteria notified by the Government of India.",
+    "relevance": "Useful when determining whether a business falls within the MSME framework.",
+    "keywords": [
+      "msme",
+      "micro enterprise",
+      "small business",
+      "classification",
+      "udyam"
+    ],
+    "source": "Government of India / Ministry of MSME"
+  },
+  {
+    "title": "Udyam Registration",
+    "category": "Business Registration",
+    "topic": "MSME Registration",
+    "description": "Eligible enterprises can use the Udyam Registration system for MSME registration.",
+    "relevance": "Relevant for businesses seeking formal MSME registration.",
+    "keywords": [
+      "udyam registration",
+      "msme registration",
+      "business registration",
+      "msme"
+    ],
+    "source": "Government of India / Udyam Registration"
+  },
+  {
+    "title": "Business Loan Due Diligence",
+    "category": "Finance",
+    "topic": "Loan Planning",
+    "description": "Businesses should consider loan amount, interest rate, tenure, EMI, total repayment and cash flow before accepting credit.",
+    "relevance": "Useful when evaluating borrowing affordability.",
+    "keywords": [
+      "loan",
+      "emi",
+      "interest",
+      "cash flow",
+      "borrowing",
+      "credit"
+    ],
+    "source": "General financial planning guidance"
+  },
+  {
+    "title": "Digital Financial Records",
+    "category": "Business Management",
+    "topic": "Record Keeping",
+    "description": "Maintaining organized records of sales, expenses, inventory and payments helps a business understand its financial position.",
+    "relevance": "Useful for financial planning and business management.",
+    "keywords": [
+      "records",
+      "bookkeeping",
+      "sales",
+      "expenses",
+      "financial records"
+    ],
+    "source": "General business management guidance"
+  },
+  {
+    "title": "GST Compliance",
+    "category": "Tax Compliance",
+    "topic": "GST",
+    "description": "GST registration and compliance requirements depend on the nature, location and turnover of the business and applicable law.",
+    "relevance": "Useful when assessing potential GST-related compliance requirements.",
+    "keywords": [
+      "gst",
+      "tax",
+      "gst registration",
+      "compliance",
+      "invoice"
+    ],
+    "source": "Government of India / GST official sources"
+  }
+]

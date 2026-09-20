@@ -1,0 +1,71 @@
+[
+  {
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "category": "Business Loan",
+    "target": "Micro and small businesses",
+    "purpose": "Provides institutional credit support to eligible micro enterprises.",
+    "benefit": "Eligible borrowers may access business credit through participating lending institutions.",
+    "relevance": "Potentially useful for small businesses requiring funds for working capital or expansion.",
+    "eligibility": "Eligibility depends on applicable scheme guidelines and lending institution requirements.",
+    "source": "Government of India",
+    "keywords": [
+      "mudra",
+      "pmmy",
+      "business loan",
+      "micro business",
+      "working capital",
+      "expansion"
+    ]
+  },
+  {
+    "name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "category": "Enterprise Support",
+    "target": "Eligible entrepreneurs and micro enterprises",
+    "purpose": "Supports eligible new micro enterprises through a credit-linked subsidy mechanism.",
+    "benefit": "Eligible projects may receive support subject to applicable scheme conditions.",
+    "relevance": "Potentially relevant for eligible entrepreneurs establishing a new micro enterprise.",
+    "eligibility": "Eligibility depends on current PMEGP guidelines and project requirements.",
+    "source": "Government of India / KVIC",
+    "keywords": [
+      "pmegp",
+      "new business",
+      "micro enterprise",
+      "entrepreneur",
+      "subsidy"
+    ]
+  },
+  {
+    "name": "Credit Guarantee Scheme through CGTMSE",
+    "category": "Credit Guarantee",
+    "target": "Eligible micro and small enterprises",
+    "purpose": "Provides credit guarantee support for eligible credit facilities.",
+    "benefit": "Can facilitate access to eligible institutional credit subject to scheme rules.",
+    "relevance": "Potentially relevant when a small business seeks eligible institutional credit.",
+    "eligibility": "Subject to current CGTMSE guidelines and lender requirements.",
+    "source": "CGTMSE / Government of India",
+    "keywords": [
+      "cgtmse",
+      "credit guarantee",
+      "business loan",
+      "msme",
+      "collateral"
+    ]
+  },
+  {
+    "name": "Udyam Registration",
+    "category": "MSME Registration",
+    "target": "Eligible micro, small and medium enterprises",
+    "purpose": "Provides official MSME registration through the Udyam Registration system.",
+    "benefit": "Registration can help eligible enterprises access applicable MSME-related services.",
+    "relevance": "Useful for businesses that qualify as MSMEs.",
+    "eligibility": "Subject to applicable MSME classification and registration requirements.",
+    "source": "Government of India / Udyam Registration",
+    "keywords": [
+      "udyam",
+      "msme registration",
+      "msme",
+      "business registration",
+      "small business"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "business_name": "Ramesh Provision Store",
+  "business_type": "Kirana Store",
+  "location": "Ahmedabad, Gujarat",
+  "monthly_revenue": 120000,
+  "monthly_expenses": 80000,
+  "existing_emi": 10000,
+  "savings": 62500,
+  "business_age_years": 4,
+  "expansion_goal": "Open second shop",
+  "employees": 2,
+  "monthly_rent": 15000,
+  "monthly_inventory_cost": 45000,
+  "owner_experience_years": 6
+}
